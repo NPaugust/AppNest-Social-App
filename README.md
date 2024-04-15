@@ -23,9 +23,9 @@ AppNest is a startup focused on developing innovative mobile applications that e
 
 ## Firebase
 <p float="center">
-  <img src="screens/a.png" width="600" height="400" />
-  <img src="screens/b.png" width="600" height="400" />
-  <img src="screens/c.png" width="600" height="400" />
+  <img src="screens/a.png" width="720" height="400" />
+  <img src="screens/b.png" width="720" height="400" />
+  <img src="screens/c.png" width="720" height="400" />
 </p>
   
 ## Video Demonstrations
