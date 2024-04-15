@@ -7,6 +7,7 @@ AppNest is a startup focused on developing innovative mobile applications that e
 - People can follow each other and add their content to their personal feed.
   
 ## Screens
+<p float="left">
 <img src="screens/1.jpg" width="190" />
   <img src="screens/2.jpg" width="180" /> 
   <img src="screens/3.jpg" width="180" />
@@ -17,6 +18,7 @@ AppNest is a startup focused on developing innovative mobile applications that e
   <img src="screens/8.jpg" width="180" />
   <img src="screens/9.jpg" width="180" />
   <img src="screens/10.jpg" width="180" />
+  </p>
   
 ## Video Demonstrations
 
