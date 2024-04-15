@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "585544582397",
+    "firebase_url": "https://app-nest-social-app-default-rtdb.firebaseio.com",
+    "project_id": "app-nest-social-app",
+    "storage_bucket": "app-nest-social-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585544582397:android:26d81b481d4d253956aa94",
+        "android_client_info": {
+          "package_name": "com.avgust.appnest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvY73Uqx93AUFjBry7Ptfd3SMhak5XYRQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,20 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.AppNest" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">#023982</item>
+        <item name="colorPrimaryVariant">@color/orange</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">#023982</item>
+        <item name="colorSecondaryVariant">@color/yellow</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">#023982</item>
+        <!-- Customize your theme here. -->
+    </style>
+    <!-- Here you can add color of your choice  -->
+    <color name="ucrop_color_toolbar">#023982</color>
+    <color name="ucrop_color_statusbar">#023982</color>
+    <color name="ucrop_color_widget_active">#023982</color>
+</resources>

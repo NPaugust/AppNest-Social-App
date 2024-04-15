@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".CreatePostActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="47dp"
+        android:layout_margin="0dp"
+        android:background="#023982"
+        android:padding="8dp"
+        android:text="AppNest"
+
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/post_image"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="300dp"
+        android:layout_height="50dp"
+        android:layout_margin="24dp"
+        android:padding="8dp"
+        android:text="@string/share_your_message_with_image"
+        android:textAlignment="center"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        android:textColor="#023982"
+        app:layout_constraintBottom_toTopOf="@+id/post_text"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/post_image" />
+
+
+    <ImageView
+        android:id="@+id/post_image"
+        android:layout_width="300dp"
+        android:layout_height="200dp"
+        android:layout_margin="24dp"
+        android:padding="8dp"
+        android:background="@color/white"
+        android:scaleType="center"
+        android:src="@drawable/placeholder_image"
+        app:layout_constraintBottom_toTopOf="@id/post_text"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <EditText
+        android:id="@+id/post_text"
+        android:layout_width="350dp"
+        android:layout_height="200dp"
+        android:background="@drawable/comment_background"
+        android:hint="@string/how_s_you_feeling_today"
+        android:padding="16dp"
+        android:textColorHint="#023982"
+        android:textAlignment="center"
+        app:layout_constraintBottom_toTopOf="@id/btn_post"
+        app:layout_constraintEnd_toEndOf="@+id/textView"
+        app:layout_constraintHorizontal_bias="0.52"
+        app:layout_constraintStart_toStartOf="@+id/textView"
+        app:layout_constraintTop_toBottomOf="@id/post_image" />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/btn_post"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="24dp"
+        android:backgroundTint="#023982"
+        android:paddingStart="80dp"
+        android:paddingTop="16dp"
+        android:paddingEnd="80dp"
+        android:paddingBottom="16dp"
+        android:text="@string/post"
+        android:textSize="16sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/post_text" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
