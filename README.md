@@ -18,9 +18,9 @@ AppNest is a startup focused on developing innovative mobile applications that e
   <img src="screens/8.jpg" width="180" />
   <img src="screens/9.jpg" width="180" />
   <img src="screens/10.jpg" width="180" />
-  <img src="screens/a.jpg" width="180" />
-  <img src="screens/b.jpg" width="180" />
-  <img src="screens/c.jpg" width="180" />
+  <img src="screens/a.png" width="180" />
+  <img src="screens/b.png" width="180" />
+  <img src="screens/c.png" width="180" />
   </p>
   
 ## Video Demonstrations
