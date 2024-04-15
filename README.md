@@ -39,7 +39,7 @@ https://github.com/NPaugust/AppNest-Social-App/assets/72886935/53daae2f-a241-46b
 - Firebase Storage
 - FirebaseRecyclerView
 - Restful API
-- Firebase Database Firestore (also Firebase Cloud store)
+- Firebase Database Firestore
   
 ## Credit
 [Avgustine](https://github.com/NPaugust)
