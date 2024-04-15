@@ -10,7 +10,7 @@ AppNest is a startup focused on developing innovative mobile applications that e
 <p float="left">
   <img src="screens/1.jpg" width="200" />
   <img src="screens/2.jpg" width="200" /> 
-  <img src="screens/3.jpg" width="200" />
+  
   <img src="screens/4.jpg" width="200" />
   <img src="screens/5.jpg" width="200" />
   <img src="screens/6.jpg" width="200" />
@@ -23,14 +23,16 @@ AppNest is a startup focused on developing innovative mobile applications that e
 
 ## Firebase
 <p float="left">
-  <img src="screens/a.png" width="780" height="400" />
-  <img src="screens/b.png" width="780" height="400" />
-  <img src="screens/c.png" width="780" height="400" />
+  <img src="screens/a.png" width="800" height="380" />
+  <img src="screens/b.png" width="800" height="380" />
+  <img src="screens/c.png" width="800" height="380" />
 </p>
   
 ## Video Demonstrations
 
-https://github.com/NPaugust/AppNest-Social-App/assets/72886935/53daae2f-a241-46bd-b163-f4706675e2f4
+
+https://github.com/NPaugust/AppNest-Social-App/assets/72886935/c32ead4a-239a-45fd-9821-8fc5037bcf8f
+
 
 
 ## Tools
