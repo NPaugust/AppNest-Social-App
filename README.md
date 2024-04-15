@@ -7,7 +7,7 @@ AppNest is a startup focused on developing innovative mobile applications that e
 - People can follow each other and add their content to their personal feed.
   
 ## Screens
-![photo_5251510926216125186_y](https://github.com/NPaugust/AppNest-Social-App/assets/72886935/df15bb25-2721-438b-9e47-c808a54a4ad8)
+![photo_5251510926216125186_y](https://github.com/NPaugust/AppNest-Social-App/assets/72886935/df15bb25-2721-438b-9e47-c808a54a4ad8 | width=100)
 ![photo_5251510926216125187_y](https://github.com/NPaugust/AppNest-Social-App/assets/72886935/72ae32fc-404f-48dd-8c64-84d83269af4b)
 ![photo_5251510926216125188_y](https://github.com/NPaugust/AppNest-Social-App/assets/72886935/2dd2ea7e-8b8e-44b7-81dd-337d3522d270)
 ![photo_5251510926216125189_y](https://github.com/NPaugust/AppNest-Social-App/assets/72886935/fdc48ff0-ebe6-4cfb-a4d4-83018f67a948)
