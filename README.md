@@ -8,24 +8,24 @@ AppNest is a startup focused on developing innovative mobile applications that e
   
 ## Screens
 <p float="left">
-<img src="screens/1.jpg" width="190" />
-  <img src="screens/2.jpg" width="180" /> 
-  <img src="screens/3.jpg" width="180" />
-  <img src="screens/4.jpg" width="180" />
-  <img src="screens/5.jpg" width="180" />
-  <img src="screens/6.jpg" width="180" />
-  <img src="screens/7.jpg" width="180" />
-  <img src="screens/8.jpg" width="180" />
-  <img src="screens/9.jpg" width="180" />
-  <img src="screens/10.jpg" width="180" />
+  <img src="screens/1.jpg" width="200" />
+  <img src="screens/2.jpg" width="200" /> 
+  <img src="screens/3.jpg" width="200" />
+  <img src="screens/4.jpg" width="200" />
+  <img src="screens/5.jpg" width="200" />
+  <img src="screens/6.jpg" width="200" />
+  <img src="screens/7.jpg" width="200" />
+  <img src="screens/8.jpg" width="200" />
+  <img src="screens/9.jpg" width="200" />
+  <img src="screens/10.jpg" width="200" />
 
   </p>
 
 ## Firebase
 <p float="center">
-  <img src="screens/a.png" width="200" height="200" />
-  <img src="screens/b.png" width="200" height="200" />
-  <img src="screens/c.png" width="200" height="200" />
+  <img src="screens/a.png" width="400" height="400" />
+  <img src="screens/b.png" width="400" height="400" />
+  <img src="screens/c.png" width="400" height="400" />
 </p>
   
 ## Video Demonstrations
